@@ -1,0 +1,4 @@
+node_modules/
+*.config.js
+API.ts
+src/serviceWorker.ts
